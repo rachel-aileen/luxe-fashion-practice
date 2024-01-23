@@ -3,3 +3,38 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* Navbar */
+.navbar {
+  height: 10vh;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.logo {
+  color: tan;
+}
+
+/* Hero */
+
+.hero {
+  height: 50vh;
+  width: 100%;
+  background-color: white;
+}
+
+/* About */
+
+.about {
+  height: 50vh;
+  width: 100%;
+  background-color: #DDDDDD;
+}
+
+/* Features */
+.features {
+  height: 50vh;
+  width: 100%;
+  background-color: tan;
+}

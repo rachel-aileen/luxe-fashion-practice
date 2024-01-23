@@ -32,6 +32,11 @@ body {
   background-color: #DDDDDD;
 }
 
+.about-img {
+  width: 100%;
+  height: 50vh;
+}
+
 /* Features */
 .features {
   height: 50vh;
